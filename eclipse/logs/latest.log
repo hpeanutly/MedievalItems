@@ -1,0 +1,27 @@
+[21:50:47] [main/INFO]: Setting user: ForgeDevName
+[21:50:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:50:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Medieval Items
+[21:50:54] [Sound Library Loader/INFO]: Sound engine started
+[21:50:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:50:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:50:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Medieval Items
+[21:50:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:50:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:50:56] [Sound Library Loader/INFO]: Sound engine started
+[21:51:03] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:51:03] [Server thread/INFO]: Generating keypair
+[21:51:03] [Server thread/INFO]: Preparing start region for level 0
+[21:51:04] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:51:04] [Server thread/INFO]: ForgeDevName[local:E:0e5342b9] logged in with entity id 136 at (-367.4918522364747, 4.0, -56.88128651802095)
+[21:51:04] [Server thread/INFO]: ForgeDevName joined the game
+[21:51:17] [Server thread/INFO]: Saving and pausing game...
+[21:51:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:51:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:51:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:51:19] [Server thread/INFO]: Stopping server
+[21:51:19] [Server thread/INFO]: Saving players
+[21:51:19] [Server thread/INFO]: Saving worlds
+[21:51:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[21:51:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[21:51:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[21:51:22] [Client thread/INFO]: Stopping!
