@@ -1,5 +1,6 @@
 package com.hpeanutly.medievalitems.block;
 
+import com.hpeanutly.medievalitems.creativetab.CreativeTabMI;
 import com.hpeanutly.medievalitems.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,6 +13,7 @@ public class BlockMI extends Block
     public BlockMI(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabMI.MI_TAB);
     }
 
     public BlockMI()

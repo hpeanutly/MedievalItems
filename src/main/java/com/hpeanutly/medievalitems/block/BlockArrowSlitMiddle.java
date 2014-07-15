@@ -1,5 +1,6 @@
 package com.hpeanutly.medievalitems.block;
 
+import com.hpeanutly.medievalitems.creativetab.CreativeTabMI;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 
